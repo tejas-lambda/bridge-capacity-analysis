@@ -13,12 +13,9 @@ The Bridge Capacity Analysis Tool is a Python utility designed for analyzing bri
 ## Key Features
 Data Processing: Reads a bridge capacity allocation report in XLSX format.
 Report Generation: Outputs an Excel file with three informative tabs:
-* Tab 1: Regional and Cluster Capacity Overview
-** Displays total allocated and available GPUs by region and cluster.
-* Tab 2: GPU Availability by Type
-** Provides a pivot table of GPUs available, categorized by type.
-* Tab 3: VM Shape-GPU Type Mapping
-** Shows the mapping between VM shapes and associated GPU types.
+* Tab 1: Regional and Cluster Capacity Overview: Displays total allocated and available GPUs by region and cluster.
+* Tab 2: GPU Availability by Type: Provides a pivot table of GPUs available, categorized by type.
+* Tab 3: VM Shape-GPU Type Mapping: Shows the mapping between VM shapes and associated GPU types.
 
 ## Usage
 * Input Requirement: Bridge capacity allocation report in XLSX format.
